@@ -1,0 +1,14 @@
+body {
+    background-image: url(ei.jpeg);
+
+}
+
+#block {
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    
+}
+
